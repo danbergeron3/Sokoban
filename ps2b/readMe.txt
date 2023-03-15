@@ -1,11 +1,11 @@
 /**********************************************************************
- *                                                  
- *  PS2b: Sokoban
+ *  NOTE: PROJECT SUBMITED TO PLAGIARISM ARCHIVE                                               
+ *  Sokoban
  **********************************************************************/
 
 Name: Daniel Bergeron
 
-Hours to complete assignment : 36hrs
+Hours to complete assignment : 15hrs
 
 /**********************************************************************
  *  Did you complete the whole assignment?
